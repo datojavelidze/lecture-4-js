@@ -1,0 +1,22 @@
+
+.c-changer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.changer{
+    background-color: antiquewhite;
+    color:gray;
+    padding: 15px;
+    border-radius: 10px;
+}
+.but-changer{
+    background-color: aquamarine;
+    border: none;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    color: gray;
+}
